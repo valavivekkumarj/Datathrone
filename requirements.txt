@@ -1,0 +1,6 @@
+matplotlib==3.4.0             # Data visualization library
+scikit-learn==0.24.1          # Machine learning library for data mining and data analysis
+pandas==1.2.1                 # Data manipulation and analysis library
+numpy==1.20.1                 # Fundamental package for scientific computing with Python
+tensorflow==2.5.0             # Deep learning framework
+keras==2.4.3                  # High-level neural networks API (can be used with TensorFlow backend)

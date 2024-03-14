@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Predictive-Demand-Forecasting
+Version: 0.0.1
+Summary: Develop AI models for precise inventory predictions based on historical data, optimizing warehouse distribution to meet dynamic demand across different regions and time periods.
+Home-page: https://github.com/valavivekkumarj/Datatrone
+Author: Vivek Vala
+Author-email: valavivek2019@gmail.com
+Requires-Dist: matplotlib==3.4.0
+Requires-Dist: scikit-learn==0.24.1
+Requires-Dist: pandas==1.2.1
+Requires-Dist: numpy==1.20.1
+Requires-Dist: tensorflow==2.5.0
+Requires-Dist: keras==2.4.3
